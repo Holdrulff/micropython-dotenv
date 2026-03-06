@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files (NEVER commit these!)
+.env
+.env.*
+*.env
+
+# Except example files
+!.env.example
+!examples/.env.example
+
+# Test files
+.env.test
+*.env.test
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MicroPython
+*.mpy
+
+# Build
+dist/
+build/
+*.egg-info/

@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["micro_dotenv.py", "github:holdrulff/micropython-dotenv/src/micro_dotenv.py"]
+  ],
+  "deps": [],
+  "version": "1.0.0"
+}
