@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cp .env.example .env)",
-      "Bash(python basic_usage.py)",
-      "Bash(rm .env)"
-    ]
-  }
-}
